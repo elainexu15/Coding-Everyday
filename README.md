@@ -1,3 +1,4 @@
 # Coding-Everyday
 
-https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/main/src/questions/javascript-questions.md
+Full stack interview questions:
+https://www.geeksforgeeks.org/full-stack-developer-interview-questions-and-answers/
